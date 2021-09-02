@@ -10,8 +10,8 @@
   }
  
   ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px #024059; 
-    border-radius: 10px;
+    box-shadow: inset 0 0 5px #A7D5F2; 
+    border-radius: 0px;
   }
 
 ::-webkit-scrollbar-thumb {
@@ -83,7 +83,7 @@
   }
   
   .list-group-item {
-    border: none;
+    border: 1px 0px 0px 1px solid #1C7FA6;
     padding: 20px 30px;
   }
   
